@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Farfallino</string>
+    <string name="action_settings">Settings</string>
+    <string name="descrizione_campoditesto"> inserisci qui il testo da \"tradurre\"</string>
+    <string name="descrizione_campoditesto2"> ecco il tuo testo tradotto</string>
+    <string name="doubleback"> Premi ancora una volta per uscire</string>
+</resources>

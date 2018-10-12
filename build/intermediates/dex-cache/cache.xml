@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\giovanni.antelli\.android\build-cache\7a3c559895e5cb7e07dbc1b34665b1e38ca5d526\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_fd44354911ba1bf25ea01bb4fae86a255839e5ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_979e692403d917fda27b469b9e8fba54a7dbb9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\giovanni.antelli\.android\build-cache\7a3c559895e5cb7e07dbc1b34665b1e38ca5d526\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ee0445b2cf70e02021e015cc86c88ee1f19063c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\giovanni.antelli\.android\build-cache\8a8864b684fea05fe4982464208b326e85260b6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b569df2b3bcc98ef26e62134949771611aa37466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\giovanni.antelli\.android\build-cache\9a2f02d1b733a00a8a2aa364058f9f6933085ac1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e81bcd0dd229938766df8c9f015100a931ff438c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\giovanni.antelli\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_6bc70ef18721a43fc0ba44354a26567b06e39c7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6d7280c9a757c2bc366ba971e8ccc1582929e9b">
+        <dex dex="C:\Sviluppo\Applicazioni\Farfallese\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bfe50bf1f5163b10298b63b48b29ef0a2ecd07f6\classes.dex" />
+    </item>
+
+</items>
